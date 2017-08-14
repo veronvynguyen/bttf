@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		392991EA1F40F6A200B7310F /* Utilities.swift in Sources */ = {isa = PBXBuildFile; fileRef = 392991E91F40F6A200B7310F /* Utilities.swift */; };
 		3975F6F31F36D2A80076579F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3975F6F21F36D2A80076579F /* AppDelegate.swift */; };
 		3975F6F51F36D2A80076579F /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3975F6F41F36D2A80076579F /* FirstViewController.swift */; };
 		3975F6F71F36D2A80076579F /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3975F6F61F36D2A80076579F /* SecondViewController.swift */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		392991E91F40F6A200B7310F /* Utilities.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utilities.swift; sourceTree = "<group>"; };
 		3975F6EF1F36D2A80076579F /* bttf.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = bttf.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3975F6F21F36D2A80076579F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3975F6F41F36D2A80076579F /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
@@ -106,6 +108,7 @@
 				3975F6FB1F36D2A80076579F /* Assets.xcassets */,
 				3975F6FD1F36D2A80076579F /* LaunchScreen.storyboard */,
 				3975F7001F36D2A80076579F /* Info.plist */,
+				392991E91F40F6A200B7310F /* Utilities.swift */,
 			);
 			path = bttf;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 			files = (
 				3975F6F71F36D2A80076579F /* SecondViewController.swift in Sources */,
 				3975F6F31F36D2A80076579F /* AppDelegate.swift in Sources */,
+				392991EA1F40F6A200B7310F /* Utilities.swift in Sources */,
 				3975F6F51F36D2A80076579F /* FirstViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
